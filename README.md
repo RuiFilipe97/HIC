@@ -2,5 +2,8 @@
 Health Informatic Corporation
 
 #### Members
-*Dilma Morais - Project Manager  
-*Rui Cabral- Requirements Analyst
+* Project Manager Dilma Morais  
+* Requirements Analyst - Rui Cabral  
+* Zhiqi Ge  
+* Xiao-xia Liu  
+* Jin Dong
