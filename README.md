@@ -3,7 +3,7 @@ Health Informatic Corporation
 
 DSD 2021 Project  
 
-Universidade de Trás-os-Montes e Alto Douro
+Universidade de Trás-os-Montes e Alto Douro  
 Jilin University
 
 #### Members
