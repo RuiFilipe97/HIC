@@ -8,7 +8,7 @@ DSD 2021 Project
 * Requirements Analyst: Rui Cabral :portugal:
 * System Arquitect: Zhiqi Ge  :cn:
 * Developer: Jin Dong  :cn:
-* Tester: Xiao-xia Liu  :cn:  
+* Tester:   
 
 Universidade de Trás-os-Montes e Alto Douro  
 Jilin University
