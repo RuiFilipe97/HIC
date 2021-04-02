@@ -12,5 +12,4 @@ DSD 2021 Project
 
 Universidade de Trás-os-Montes e Alto Douro  
 Jilin University  
-![jilin university](Images/Jilin University.jpg "Jilin University")
 
