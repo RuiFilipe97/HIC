@@ -10,8 +10,5 @@ DSD 2021 Project
 * Developer: Jin Dong  :cn:
 * Tester:   
 
-## Universidade de Trás-os-Montes e Alto Douro  
-![](Images/utad.jpg)
-## Jilin University  
-![](Images/Jilin%20University.jpg)
-
+## Universidade de Trás-os-Montes e Alto Douro / Jilin University
+<img src="Images/utad.jpg" width="200"> &nbsp;&nbsp; <img src="Images/Jilin University.jpg" width="200">
